@@ -54,16 +54,18 @@
 
 ## APEX
 
-- [Ask TOM](https://asktom.oracle.com/pls/apex/f?p=100:1000::::::)
-- [Oracle APEX Community](https://community.oracle.com/community/technology_network_community/database/developer-tools/application_express)
-- [APEX World](https://apex.world/ords/f?p=APEX_WORLD:HOME)
-- [Oracle LiveSQL](https://livesql.oracle.com/apex/livesql/file/index.html)
 - [APEX Office Hours](https://asktom.oracle.com/pls/apex/f?p=100:551:::NO:551:P551_CLASS_ID:744:)
-- [Maxime Tremblay's Blog](https://max-tremblay.blogspot.com/)
+- [APEX World](https://apex.world/ords/f?p=APEX_WORLD:HOME)
+- [Ask TOM](https://asktom.oracle.com/pls/apex/f?p=100:1000::::::)
 - [Explorer UK](https://explorer.uk.com/blog/)
-- [Talk APEX](https://www.talkapex.com/)
 - [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
+- [Maxime Tremblay's Blog](https://max-tremblay.blogspot.com/)
+- [Oracle APEX Community](https://community.oracle.com/community/technology_network_community/database/developer-tools/application_express)
 - [Oracle APEX Website](https://apex.oracle.com/)
+- [Oracle LiveSQL](https://livesql.oracle.com/apex/livesql/file/index.html)
+- [Talk APEX](https://www.talkapex.com/)
+
+
 
 ## CSS
 
@@ -87,11 +89,12 @@
 
 ## Data Science
 
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
+- [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 - [DataCamp](https://www.datacamp.com/)
 - [New Coder](https://newcoder.io/)
-- [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 - [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide)
-- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
+
 
 ## Developer Blog
 
@@ -103,6 +106,7 @@
 - [bitsofcode](https://bitsofco.de)
 - [catlin.red](https://catalin.red/)
 - [Creative Bloq](https://www.creativebloq.com/)
+- [Dan Abramov Blog](https://overreacted.io/)
 - [David Heinemeier Hansson (DHH)](https://medium.com/@dhh)
 - [David Walsh](https://davidwalsh.name)
 - [Gift Egwuenu](https://giftegwuenu.com)
@@ -115,7 +119,6 @@
 - [Tania Rascia](https://www.taniarascia.com/)
 - [Todd Motto](https://toddmotto.com/)
 - [Zell's Blog](https://zellwk.com/blog)
-- [Dan Abramov Blog](https://overreacted.io/)
 
 ## Developer Stories
 
